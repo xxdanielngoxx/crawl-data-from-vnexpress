@@ -4,4 +4,4 @@ In this project, I will crawl data from website https://vnexpress.net/ using Jav
 ## We will run my app using intelliJ IDEA.
 
 ### The specific is described following steps:
-![Alt](https://github.com/xxdanielngoxx/crawl-data-from-vnexpress/issues/1#issue-481867067)
+![Alt](https://user-images.githubusercontent.com/54095513/63209183-f6bca200-c107-11e9-895c-79c500662f51.PNG)
